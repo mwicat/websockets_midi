@@ -33,3 +33,7 @@ pipenv install
 ```
 
 3. Open [http://localhost:5000/]() in web browser.
+
+## TODO
+
+- Implement audio/video transfer like https://github.com/paranerd/simplecam
